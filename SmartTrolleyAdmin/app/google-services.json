@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "935399489041",
+    "firebase_url": "https://smarttrolley-1.firebaseio.com",
+    "project_id": "smarttrolley-1",
+    "storage_bucket": "smarttrolley-1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:935399489041:android:50773ef871fff5ef26bbb0",
+        "android_client_info": {
+          "package_name": "com.lumiere.smarttrolleystore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "935399489041-5vaj54fisjkmah5kf5ba5but3rcsc301.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHCjPx9O8cNJmlzq1fXawTzy9FMO27kuI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "935399489041-5vaj54fisjkmah5kf5ba5but3rcsc301.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:935399489041:android:77c4a083d27ba5c826bbb0",
+        "android_client_info": {
+          "package_name": "com.shopping.smarttrolley"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "935399489041-5vaj54fisjkmah5kf5ba5but3rcsc301.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHCjPx9O8cNJmlzq1fXawTzy9FMO27kuI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "935399489041-5vaj54fisjkmah5kf5ba5but3rcsc301.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,15 @@
+# SmartTrolleyAdmin
+SmartTrolleyAdmin/*.iml
+SmartTrolleyAdmin/.gradle
+SmartTrolleyAdmin/local.properties
+SmartTrolleyAdmin/.idea/caches
+SmartTrolleyAdmin/.idea/libraries
+SmartTrolleyAdmin/.idea/modules.xml
+SmartTrolleyAdmin/.idea/workspace.xml
+SmartTrolleyAdmin/.idea/navEditor.xml
+SmartTrolleyAdmin/.idea/assetWizardSettings.xml
+SmartTrolleyAdmin/.DS_Store
+SmartTrolleyAdmin/build
+SmartTrolleyAdmin/captures
+SmartTrolleyAdmin/.externalNativeBuild
+SmartTrolleyAdmin/.cxx

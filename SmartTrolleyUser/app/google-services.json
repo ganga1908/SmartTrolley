@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "984584622842",
+    "firebase_url": "https://nokiaproject-a6699.firebaseio.com",
+    "project_id": "nokiaproject-a6699",
+    "storage_bucket": "nokiaproject-a6699.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:984584622842:android:c4cd8dcf453fd656696f43",
+        "android_client_info": {
+          "package_name": "com.example.smart_trolley"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "984584622842-t7f900p6bqjiohi5avg1vtcc1notma3c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBAeseeyFoLXjViSAsj7b_AOEIVLA2nlk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "984584622842-t7f900p6bqjiohi5avg1vtcc1notma3c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
